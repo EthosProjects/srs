@@ -1,0 +1,12 @@
+node_modules/
+chess/
+scraper/
+multable/
+german.json
+spanish.json
+polish.json
+cache.js
+cache.html
+spanish.html
+words.html
+polish-archive.json
